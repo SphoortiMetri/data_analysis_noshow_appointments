@@ -5,7 +5,7 @@ The dataset here contains information about appointments in brazil and is focuse
 
 What do I need to install?
 
-* pandas
+* # pandas
 * NumPy
 * Matplotlib
 
