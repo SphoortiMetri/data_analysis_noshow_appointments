@@ -1,5 +1,5 @@
 # noshow_appointments
-This project focuses on data wrangling on the 'Medical Appointment No Shows' dataset from kaggle (https://www.kaggle.com/joniarroba/noshowappointments) 
+This project focuses on data wrangling on the 'Medical Appointment No Shows' dataset from kaggle (https://www.kaggle.com/joniarroba/noshowappointments). 
 The dataset here contains information about appointments in brazil and is focused on whether or not patients show up to their appointment(s). My aim here is to explore this data and analyze the factors that contribute to patient showing up(or not showing up) for scheduled appointments.
 
 
