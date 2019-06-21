@@ -25,4 +25,4 @@ The dataset here contains information about appointments in brazil and is focuse
 1. Introduction
 2. Data Wrangling
 3. Exploratory Data Analysis
-4. Conclusions
+4. Conclusions and Limitations
